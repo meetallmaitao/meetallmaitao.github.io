@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网银变更 on Mythburuthers</title>
+    <link>https://mythbustersjk.github.io/tags/%E7%BD%91%E9%93%B6%E5%8F%98%E6%9B%B4/</link>
+    <description>Recent content in 网银变更 on Mythburuthers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2020 00:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mythbustersjk.github.io/tags/%E7%BD%91%E9%93%B6%E5%8F%98%E6%9B%B4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何重置我行Ukey或网银登录密码</title>
+      <link>https://mythbustersjk.github.io/post/corponlingbanking/resetpwthroughcounter/</link>
+      <pubDate>Fri, 22 May 2020 00:30:00 +0000</pubDate>
+      
+      <guid>https://mythbustersjk.github.io/post/corponlingbanking/resetpwthroughcounter/</guid>
+      <description>简介
+本博文主要介绍在您忘记原Ukey或网银登录密码的情况下如何进行重置
+本文所涉及的所有操作仅对单一操作员生效。如您需要重置多位操作员，请按此方法对所有操作员进行相同的操作！
+登录我行在线填表系统 点击登录我行在线填表系统；
+我行在线填表界面如下图所示，本次涉及的功能主要有：
+ 解锁/重置Usbkey密码、更换Usbkey；（此功能主要适用于在您遗忘Ukey密码时使用，亦可用于在Ukey证书到期时重置Ukey证书） 解锁网银登录密码；（此功能适用于您已知您的网银登录密码，但因误操作导致密码尝试次数超过上限导致系统锁定的情况下来解锁登陆限制） 重置登录密码；（此功能适用于您遗忘您网银登录密码的情况下）
+  根据您自身情况选择对应的功能模块 在您选择好对应您情况的功能模块后即进入如下图的信息录入界面
+注：上述三种功能的信息录入界面一致，此处以解锁/重置Usbkey密码、更换Usbkey信息录入界面进行说明
+进入信息界面后，按照界面提示录入相关信息，其中操作员代码为非必填项可以不录入。如您在录入信息后点击提交后系统报错，请尝试以下方法：
+ 如您公司名称中存在括号，请您分别尝试全角括号（中文）&amp;quot;（）&amp;ldquo;和半角括号（英文）&amp;quot;()&amp;quot;; 如您操作员身份证号最后一位为&amp;quot;X&amp;rdquo;,请尝试切换末尾大小写；  在您成功提交信息后，会自动跳转至表单打印界面，将表单打印出来后，在两联表单左下角加盖单位公章及预留印鉴后携表中操作员身份证及经办人（如有）身份证原件临柜办理。</description>
+    </item>
+    
+    <item>
+      <title>如何设置我行新版Ukey密码及更改密码</title>
+      <link>https://mythbustersjk.github.io/post/corponlingbanking/setchangepw/</link>
+      <pubDate>Thu, 21 May 2020 06:30:00 +0000</pubDate>
+      
+      <guid>https://mythbustersjk.github.io/post/corponlingbanking/setchangepw/</guid>
+      <description>简介
+本文主要介绍在第一次使用我行新版Ukey时如何设置密码及后期如何更改密码的相关操作
+如何设置我行新版Ukey密码 在用新版Ukey首次登陆我行网银时需设置Ukey密码具体操作流程如下：
+ 确保已正确安装我行所有网银相关驱动； 将Ukey与电脑连接，得到如下图提示；
+ 根据下图所示，设置Ukey密码，根据提示点击Ukey上”OK“按钮，完成密码设置
+   如何更改Ukey密码（以Win7为例，其他系统存在部分操作差异） 为保证您可以正确修改Ukey密码，请在操作全过程中保证有且仅有一枚我行Ukey连接至电脑
+ 点击开始&amp;gt;所有程序，找到中信银行增强型UKEY管理工具并点击握奇文件夹中的Ukey管理程序以打开我行Ukey管理程序； 点击ukey密码修改，输入原Ukey密码，设置新Ukey密码，点击确认后在Ukey上点击”OK“按钮  </description>
+    </item>
+    
+  </channel>
+</rss>
