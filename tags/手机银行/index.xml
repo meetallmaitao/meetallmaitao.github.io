@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>手机银行 on Mythburuthers</title>
+    <link>https://mythbustersjk.github.io/tags/%E6%89%8B%E6%9C%BA%E9%93%B6%E8%A1%8C/</link>
+    <description>Recent content in 手机银行 on Mythburuthers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 06:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mythbustersjk.github.io/tags/%E6%89%8B%E6%9C%BA%E9%93%B6%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>玩转我行对公手机银行（二）如何随时随地潇洒转账与审核</title>
+      <link>https://mythbustersjk.github.io/post/mobilebanking/transfer/</link>
+      <pubDate>Sun, 31 May 2020 06:30:00 +0000</pubDate>
+      
+      <guid>https://mythbustersjk.github.io/post/mobilebanking/transfer/</guid>
+      <description>简介
+本博文为玩转我行对公手机银行系列博文第二篇，在本文中将介绍如何使用我行手机银行进行支付转账并审核
+因支付转账及审核涉及账户资金安全，请确保在未经root的安卓手机或未经越狱的iPhone上进行操作！
+企业经办如何使用我行手机银行制单 企业审核人员审核制单 </description>
+    </item>
+    
+    <item>
+      <title>玩转我行对公手机银行（一）请使用用正确姿势登录我行手机银行</title>
+      <link>https://mythbustersjk.github.io/post/mobilebanking/login/</link>
+      <pubDate>Mon, 25 May 2020 12:30:00 +0000</pubDate>
+      
+      <guid>https://mythbustersjk.github.io/post/mobilebanking/login/</guid>
+      <description>简介
+本博文为玩转我行对公手机银行系列博文第一篇，在本文中将介绍如何登录我行手机银行
+如何登录我行手机银行 首先只讲登录不讲安装那就是在纯粹的耍流氓。因此，本文就以如何安装我行手机银行开始！
+如何安装我行手机银行 以下操作流程以IOS系统为例，安卓用户请在各大受信任的软件市场进行下载使用
+ 进入AppStore，在搜索栏输入&amp;quot;中信银行企业手机银行&amp;quot;点击安装； 如你正在使用iPhone浏览本站，你可以通过点击软件直达来进行快速安装；
+安装完成后，点击应用进入软件，正式开始你的手机银行之旅（如果你还是我行个人用户的话，在开始本趟旅程时请注意不要上错登机口，我行对公手机银行正确登机口如下图所示）   输入凭证，上机旅行！  点击我行手机银行，进入到主界面； 如图点击左上角头像图标进入登录界面；
+ 进入登录界面后，在如下界面中输入你的用户代码及手机号后点击获取验证码，输入验证码后点击&amp;quot;首次登录&amp;rdquo;（输入的手机号为用户代码所绑定的手机号）；
+ 如你信息填写正确，你将看到如下界面，请在如下界面上点击&amp;quot;立即绑定&amp;rdquo;；
+ 绑定成功后，会自动跳转至登录界面;
+ 登录界面；
+ 输入绑定用户代码/手机号输入相应密码即可登录我行手机网银；  </description>
+    </item>
+    
+  </channel>
+</rss>

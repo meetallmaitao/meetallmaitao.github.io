@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mythburuthers</title>
+    <link>https://mythbustersjk.github.io/categories/</link>
+    <description>Recent content in Categories on Mythburuthers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 06:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mythbustersjk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>对公网银</title>
+      <link>https://mythbustersjk.github.io/categories/%E5%AF%B9%E5%85%AC%E7%BD%91%E9%93%B6/</link>
+      <pubDate>Sun, 31 May 2020 06:30:00 +0000</pubDate>
+      
+      <guid>https://mythbustersjk.github.io/categories/%E5%AF%B9%E5%85%AC%E7%BD%91%E9%93%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>柜面业务</title>
+      <link>https://mythbustersjk.github.io/categories/%E6%9F%9C%E9%9D%A2%E4%B8%9A%E5%8A%A1/</link>
+      <pubDate>Sat, 11 Apr 2020 05:08:00 +0000</pubDate>
+      
+      <guid>https://mythbustersjk.github.io/categories/%E6%9F%9C%E9%9D%A2%E4%B8%9A%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
