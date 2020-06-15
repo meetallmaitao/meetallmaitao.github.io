@@ -3,128 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mythbustersjk.github.io/categories/</loc>
-    <lastmod>2020-05-31T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/</loc>
-    <lastmod>2020-05-31T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/post/</loc>
-    <lastmod>2020-05-31T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/tags/</loc>
-    <lastmod>2020-05-31T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/categories/%E5%AF%B9%E5%85%AC%E7%BD%91%E9%93%B6/</loc>
-    <lastmod>2020-05-31T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/tags/%E6%89%8B%E6%9C%BA%E9%93%B6%E8%A1%8C/</loc>
-    <lastmod>2020-05-31T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/post/mobilebanking/transfer/</loc>
-    <lastmod>2020-05-31T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/post/mobilebanking/login/</loc>
-    <lastmod>2020-05-25T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-05-22T06:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/about/about/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-22T06:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/tags/%E5%8F%98%E6%9B%B4%E5%AF%86%E7%A0%81/</loc>
-    <lastmod>2020-05-22T00:30:00+00:00</lastmod>
+    <loc>/about/about/</loc>
+    <lastmod>2020-05-22T06:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/post/corponlingbanking/resetpwthroughcounter/</loc>
-    <lastmod>2020-05-22T00:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/tags/%E7%BD%91%E9%93%B6%E5%8F%98%E6%9B%B4/</loc>
-    <lastmod>2020-05-22T00:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/post/corponlingbanking/setchangepw/</loc>
-    <lastmod>2020-05-21T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mythbustersjk.github.io/post/corponlingbanking/problemsofreconciliation/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/tags/%E7%94%B5%E5%AD%90%E5%AF%B9%E8%B4%A6/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/tags/%E7%BD%91%E9%93%B6%E6%93%8D%E4%BD%9C/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/post/corponlingbanking/electronicreconciliation/</loc>
-    <lastmod>2020-04-14T05:08:00+00:00</lastmod>
+    <loc>/post/vip%E8%AE%A2%E5%88%B6/untitled-1/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/tags/%E7%BD%91%E9%93%B6%E9%83%A8%E7%BD%B2/</loc>
-    <lastmod>2020-04-12T05:08:00+00:00</lastmod>
+    <loc>/categories/vip%E8%AE%A2%E5%88%B6/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/tags/%E7%BD%91%E9%93%B6%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2020-04-12T05:08:00+00:00</lastmod>
+    <loc>/tags/%E5%8F%AF%E7%88%B1/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/post/corponlingbanking/dirveinstallation/</loc>
-    <lastmod>2020-04-12T05:08:00+00:00</lastmod>
+    <loc>/post/vip%E8%AE%A2%E5%88%B6/%E6%96%87%E7%AB%A0%E5%90%8D/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/post/counterbusiness/opencorpaccount/</loc>
-    <lastmod>2020-04-11T05:08:00+00:00</lastmod>
+    <loc>/tags/%E5%B0%8F%E7%94%B7%E5%AD%A9/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/tags/%E5%AF%B9%E5%85%AC%E5%BC%80%E6%88%B7/</loc>
-    <lastmod>2020-04-11T05:08:00+00:00</lastmod>
+    <loc>/post/%E6%85%95%E6%96%AF%E8%9B%8B%E7%B3%95/untitled-1/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/categories/%E6%9F%9C%E9%9D%A2%E4%B8%9A%E5%8A%A1/</loc>
-    <lastmod>2020-04-11T05:08:00+00:00</lastmod>
+    <loc>/post/%E7%94%9C%E5%93%81/paofu/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mythbustersjk.github.io/tags/%E8%B4%A6%E6%88%B7%E7%B1%BB%E4%B8%9A%E5%8A%A1/</loc>
-    <lastmod>2020-04-11T05:08:00+00:00</lastmod>
+    <loc>/categories/%E7%94%9C%E5%93%81/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/%E7%BF%BB%E7%B3%96%E8%9B%8B%E7%B3%95/untitled-2/</loc>
+    <lastmod>2020-04-15T05:08:00+00:00</lastmod>
   </url>
   
 </urlset>
